@@ -3,9 +3,6 @@
 #hi
 
 LEARNING
-
-second mode
-
-i am happY
+trying to pull from git
 
 SECOND TRY
